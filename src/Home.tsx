@@ -1563,7 +1563,7 @@ const Home = (props: HomeProps) => {
                     <div className="overflow-hidden tw-w-full tw-mb-4 tw-flex-grow tw-rounded-3xl">
                       <div>
                         <img
-                          src="./img/project.gif"
+                          src="./img/project.jpeg"
                           alt="Cynova"
                           className="tw-object-cover tw-aspect-square tw tw-w-screen tw-flex-grow tw-rounded-3xl overflow-hidden"
                         />
